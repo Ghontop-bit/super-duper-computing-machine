@@ -2,7 +2,7 @@
 	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
 ]]
 -- Configuration
-local GKey = "Key_636366363737373hehs" -- change to whatever
+local GKey = "Key_tv76vut75ct7rc5yrc7r75rc57cr56r5y4cu555 4755c76t t76t 76tv67t6576tv67t76vt" -- change to whatever
 local TextLabelText1 = "Key System" -- change to whatever
 local TextLabelText2 = "Join Discord! https://discord.com/invite/fhSCagnNGn" -- change to whatever!
 local TextFontAll = "FredokaOne" -- Enter Any Font!
